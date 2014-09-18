@@ -1,0 +1,78 @@
+body{
+padding:0px;
+margin:0px;
+}
+
+.first{
+min-height:50px;
+background:black;
+background-image:url('../images/fiber_globe.jpg');
+background-repeat:no-repeat;
+background-position: 25%;
+background-size: contain;
+color:white;
+text-align:center;
+/*Fibler Optic Globe image from https://www.flickr.com/photos/_rq/2959253587/in/photostream/ (CC BY-SA 2.0) */
+text-shadow: 3px 3px 3px rgba(233, 233, 233, 0.7);
+
+padding:1%;
+margin:0px;
+}
+.second{
+padding:5%;
+padding-right:25%;
+padding-left:25%;
+margin:0px;
+text-align:center;
+text-shadow: 2px 2px 2px rgba(0,0,0,0.7);
+box-shadow:inset 0 2px 2px 0 rgba(255,255,255,0.2),0 -2px 2px -2px rgba(0,0,0,1);
+background:linear-gradient(#2f9ace,#01539f);
+}
+.content{
+padding:5%;
+padding-right:15%;
+padding-left:15%;
+margin:0px;
+text-align:left;
+text-shadow: 1px 1px 1px rgba(0,0,0,0.7);
+box-shadow:inset 0 2px 2px 0 rgba(255,255,255,0.2),0 -2px 2px -2px rgba(0,0,0,1);
+background:#2f9ace;
+}
+.third{
+padding:5%;
+padding-top:2%;
+min-height:10em;
+margin:0px;
+box-shadow:inset 0 2px 2px 0 rgba(255,255,255,0.2),0 -2px 2px -2px rgba(0,0,0,1);
+background:linear-gradient(lightgreen,#33FD00,lightgreen)
+}
+.first-column{
+height:100%;
+width:50%;
+float:left;
+padding:0px;
+padding-top:2em;
+margin:0px;
+text-align:center;
+}
+.second-column{
+height:100%;
+width:50%;
+float:right;
+padding:0%;
+padding-top:2em;
+margin:0px;
+margin-left:-1px;
+text-align:center;
+border-left: 1px;
+border-left-style:solid;
+}
+
+.fourth{
+background:#4d4e53;
+padding:0%;
+margin:0px;
+text-align:left;
+padding:10px;
+
+}

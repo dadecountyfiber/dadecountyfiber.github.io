@@ -1,0 +1,34 @@
+body{
+font-size:large;
+font-family: 'Open Sans Light',sans-serif;
+}
+
+h1{
+font-size:300%;
+color:white;
+text-shadow: 3px 3px 3px rgba(233, 233, 233, 0.7);
+}
+h1 a{
+color:white;
+text-decoration:none;
+}
+
+h2{
+font-size:200%;
+
+}
+
+h3{
+font-size:150%;
+
+}
+
+h4{
+font-size:125%;
+
+
+}
+
+.center{
+text-align:center;
+}
